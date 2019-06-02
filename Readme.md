@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Максимов](https://up.htmlacademy.ru/javascript/17/user/931159).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Молчанов](https://up.htmlacademy.ru/javascript/17/user/137398).
 
 ---
 
